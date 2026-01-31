@@ -1,4 +1,4 @@
-package Quiz4_3
+package Quiz4_5
 //clase personalizada
 class Spice(
     val name: String,
