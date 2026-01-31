@@ -15,8 +15,9 @@ class Game {
         false
     }
 
-    fun List<Int>.divisibleBy(block: (Int) -> Int) =
-        filter { block(it) == 0 }
-
 }
+
+
+
+
 
